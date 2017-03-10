@@ -1,0 +1,51 @@
+/* Comienza el CSS del LOGO */
+div#logo img{
+    float: left;
+}
+
+div#logo p {
+    float: left;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 6px;
+    letter-spacing: 4px;
+    font-family: 'Ranga';
+}
+
+div#logo p span {
+    display: block;
+    font-size: 14px;
+    font-family: 'Ranga', cursive;
+}
+
+/* Comienza el CSS del Menu */
+div#menu ul.Submenu{
+    display: none;
+}
+div#menu ul li{
+    display: inline;
+    float: right;
+    background: #e5e5e5;
+}
+
+div#menu ul li a{
+    display: block;
+    height: 30px;
+    color: grey;
+    text-decoration: none;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div#menu ul li:hover{
+    background: #d8450B;
+}
+
+div#menu ul li:hover a{
+    color: #FFF;
+}
+
+div#menu ul{
+margin-top: 5px;
+}

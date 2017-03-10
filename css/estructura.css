@@ -1,0 +1,88 @@
+body{
+    background-image: url("../img/page-bg-1.jpg");
+}
+
+div#contenedor{
+    width: 1170px;
+    margin-top: 10px;
+    margin: 0 auto;
+    
+}
+
+div#encabezado{
+    height: 450px;
+    margin-top: 20px;
+}
+
+div#contenido{
+    height: 600px;
+    border: 1px solid black;
+    margin-top: 25px;
+}
+
+div#menulogo{
+    height: 55px;
+}
+
+div#portada{
+    height: 350px;
+    margin-top: 45px;
+}
+
+div#logo{
+    height: 55px;
+    width: 470px;
+    float: left;
+    
+}
+
+div#menu{
+    width: 690px;
+    height: 55px;
+    float: right;
+}
+
+div#galeria{
+    height: 350px;
+    width: 770px;
+    float: left;
+    border: 1px solid green;
+}
+
+div#textoprin{
+    height: 350px;
+    width: 390px;
+    float: right;
+    border: 1px solid pink;
+}
+
+div#pie{
+    height: 300px;
+    margin-top: 25px;
+    background: grey;
+}
+
+div#pie1, div#pie2, div#pie3, div#pie4{
+    height: 280px;
+    width: 280px;
+    float:left;
+    margin-top: 10px;
+}
+div#pie4{
+    float: right;
+    background: red;
+}
+
+div#pie1{
+    margin-right: 16px;
+    background: yellow;
+}
+
+div#pie2{
+    margin-right: 16px;
+    background: green;
+}
+
+div#pie3{
+    background: pink;
+}
